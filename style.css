@@ -1,0 +1,29 @@
+
+
+.modal-p{
+    text-align: center;
+}
+
+.info {
+    width: 85%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.header {
+    width: 90%;
+    margin: auto;
+}
+
+.sample {
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.madeWithLove {
+    width: auto;
+    margin: auto;
+    text-align: center;
+
+}
