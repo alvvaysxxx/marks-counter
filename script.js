@@ -4,7 +4,6 @@ marks = document.querySelector('.marks')
 body = document.querySelector('body')
 
 addPupil.addEventListener('click', function() {
-    pupils[pupil.value] = {name: pupil.value, marks: marks.value}
     showInfo(pupil.value, marks.value)
     marks.value = ''
     pupil.value = ''
